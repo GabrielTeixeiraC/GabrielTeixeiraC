@@ -1,6 +1,6 @@
 # Hey, I'm Gabriel! 👾👽
 
-- 🔎 I am an undergraduate researcher at SPEED DCC-UFMG
+- 🔎 I am an undergraduate researcher at [SPEED DCC-UFMG](http://www2.dcc.ufmg.br/laboratorios/speed/site/)
 - 📖 I am in my 3 year of Computer Science at UFMG
 - 🌱 I am currently studying interpretability in deep learning models.
 - 📫 You can contact me at: gteixeiraca@gmail.com
