@@ -4,7 +4,7 @@
 
 
 - 🔎 I'm an undergraduate researcher at [SPEED DCC-UFMG](http://www2.dcc.ufmg.br/laboratorios/speed/site/)
-- 📖 I'm in my 3rd year of Computer Science at UFMG
+- 📖 I'm in my 4th year of Computer Science at UFMG
 - 🌱 I'm currently studying interpretability in deep learning models.
 - 📫 You can contact me at: gteixeiraca@gmail.com
 
